@@ -24,6 +24,17 @@ then your infinite read arounds will begin!
 
 NOTICE: EVERY TIME YOU FINISH A QUESTION, YOU NEED TO RELOAD YOUR PAGE!!!!!
 ----
+readarounds WILL POP UP ON THEIR OWN!
+----
+Readarounds will count to only five and WILL NOT WORK if you dont reload your page
+----
+
+OTHER stuff:
+IF SOMETHING LIKE:
+![CANS](https://media.discordapp.net/attachments/783804018262671432/844038974132715570/unknown.png?width=1440&height=106)
+POPS UP, THEN CLICK THE 'X'
+----
+
 
 # features
 ``custom reading rate``,
