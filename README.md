@@ -8,20 +8,28 @@ then click it and click the follwing button
 
 then it will send u to this page
 
-![CANS](https://cdn.discordapp.com/attachments/518560183312711693/756158330317308064/unknown.png)
-just clear it and paste the script in there, then press ``ctrl`` + ``s``.
-close it then go to reading plus
-
+CLICK THE LINK BELOW
 ``script file`` => https://hoodjs.github.io/rp-clue/index.user.js
+
+It will bring you to a page that looks like the image below.
+![CANS](https://cdn.discordapp.com/attachments/783804018262671432/844037902896070737/unknown.png)
+
+Choose a story. 
+
+finish the story with your custom reading rate.
+
+answer the first question on your own.
+
+then your infinite read arounds will begin!
+
+NOTICE: EVERY TIME YOU FINISH A QUESTION, YOU NEED TO RELOAD YOUR PAGE!!!!!
 ----
 
 # features
 ``custom reading rate``,
-``5 rereads for questions``,
+``INFINITE rereads for questions``,
 ``filters the lowest word count story``
 
-# commands
-### replace {} with ur value
 
 changinng the reading rate (reload req)
 ``rate="{amount}"``,
@@ -35,11 +43,10 @@ getting the lowest wordcount story
 getting vocab answer
 ``contex=""``
 
+
 # Warning
-``you will never get answer for the first question becuase there will never be clues, but it just asks about the main idea of the story``
-``if the answer is only 1 or 2 word, the anwer shown might be wrong``,
-``if the answer is red, that means it might be wrong``,
-``if all of the answers have the same persentage that means you have to find it ur self from rereads``,
+``This is a GIT- Fork of a past project that no longer worked, i simply remade it, with some remastered code.``
+
 
 ## how to hide the colose
 just press ``ctrl``
