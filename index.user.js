@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  a reading plus helper script
-// @author       Hoodgail
+// @author       GreenWorld (Original credit's to hoodgail)
 // @match        *://student.readingplus.com/seereader/*
 // @grant        none
 // @run-at       document_start
