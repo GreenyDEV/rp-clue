@@ -1,3 +1,5 @@
+(This is a reworked version of HoodJS's RPclue)
+
 # how to install
 first you need to install this extension on chrome
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
